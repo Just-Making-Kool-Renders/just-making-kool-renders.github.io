@@ -1,7 +1,7 @@
 title: Belonging
 author:
 show_downloads: false
-remote_theme: daattali/beautiful-jekyll@6.0.1
+remote_theme: jekyll/minima
 github:
   is_project_page: true
   repository_url: https://github.com/Just-Making-Kool-Renders/just-making-kool-renders.github.io
