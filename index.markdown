@@ -42,7 +42,7 @@ layout:
     <div class="wrapper">
       <a class="site-title" rel="author" href="/">Just Making Kool Renders</a>
       <nav class="site-nav">
-        <div class="trigger">
+        <div style="margin: 15px 0 0 0" class="trigger">
           <a class="page-link" href="/about/">About Us</a>
         </div>
       </nav>
@@ -50,9 +50,34 @@ layout:
   </header>
 
   <main class="page-content" aria-label="Content">
-    <img style="width: 400; height: 300; display: block; margin: auto;" src="game_title_screen.png"/>
+    <img style="width: 525; height: 400; display: block; margin: auto;" src="game_title_screen.png"/>
+    <iframe width="560" height="315" style="display: block; margin: auto;" src="https://www.youtube.com/embed/ASlkM-mf1zk?si=6_Ow2fVRuVeQFRoK" title="YouTube video player"   frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; color: rgb(89, 160, 222);">
+      <h1 style="margin: 30px 0 0 0;">What is Belonging?</h1>
+      <p style="width: 600px; margin: 20px 0 0 0">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      </p>
+      <h1 style="margin: 30px 0 0 0;">Designs and Screenshots</h1>
+      <p style="width: 600px; margin: 20px 0 0 0">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      </p>
+      <h1 style="margin: 30px 0 0 0;">Next Steps</h1>
+      <p style="width: 600px; margin: 20px 0 0 0">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      </p>
+    </div>
   </main>
 
+<!--
   <footer class="site-footer h-card">
     <data class="u-url" href="/"></data>
     <div class="wrapper">
@@ -72,5 +97,6 @@ layout:
       </div>
     </div>
   </footer>
+  -->
 </body>
 </html>
