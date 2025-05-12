@@ -91,7 +91,7 @@ layout:
           The animation for player attacks will occasionally cancel during movement, preventing the attack from dealing damage.
         </li>
         <li>
-          Occasionally mismatch between the final boss' current state and animation (e.g. may attack while walking or after the attack should've taken place)
+          Occasional mismatch between the final boss' current state and animation (e.g. may attack while walking or after the attack should've taken place)
         </li>
         <li>
           Some flying enemies don't have a (clear?) hitbox and/or may appear to have more health than it should
