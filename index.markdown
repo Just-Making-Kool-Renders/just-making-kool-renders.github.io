@@ -52,28 +52,34 @@ layout:
   <main class="page-content" aria-label="Content">
     <img style="width: 525; height: 400; display: block; margin: auto;" src="game_title_screen.png"/>
     <iframe width="560" height="315" style="display: block; margin: auto;" src="https://www.youtube.com/embed/ASlkM-mf1zk?si=6_Ow2fVRuVeQFRoK" title="YouTube video player"   frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; color: rgb(89, 160, 222);">
+    <div style="display: flex; flex-direction: column; justify-self: center; align-items: center; color: rgb(89, 160, 222); width: 600px">
       <h1 style="margin: 30px 0 0 0;">What is Belonging?</h1>
-      <p style="width: 600px; margin: 20px 0 0 0">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      <p style="margin: 20px 0 0 0">
+        Everyone has the urge to belong somewhere. Abraham Maslow, an American psychologist, proposed a theory known as Maslow’s Hierarchy of Needs. According to this theory, humans have five levels of needs, and the need for belonging is one of them.
+        Our game, Belonging, is a story-driven experience that focuses on this fundamental human need, making it deeply relatable for many. You play as the last survivor of your hometown, following a compelling storyline as you search for a new place to belong. 
       </p>
-      <h1 style="margin: 30px 0 0 0;">Designs and Screenshots</h1>
-      <p style="width: 600px; margin: 20px 0 0 0">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      <p style="margin: 10px 0 0 0; align-self: flex-start">But even after everything, you’ll find yourself asking:</p> 
+      <p style="margin: 10px 0 0 0; font-style: italic; align-self: flex-start;">Do I really belong here?</p>
+      <img style="margin: 10px 0 0 0" src="you_dont_belong.png" />
+      <h2 style="margin: 30px 0 0 0;">Story</h2>
+      <p style="margin: 20px 0 0 0;">
+        You will come across a mysterious scythe that leads you to the Darkins—the beings responsible for the tragedy that destroyed your hometown. On your journey for vengeance, you discover a new town that is also under threat from the Darkins. As someone who has already suffered their destruction, you are determined to prevent the same fate from befalling this town. Will you succeed in stopping the Darkins from destroying the new town—and the rest of the world?
       </p>
-      <h1 style="margin: 30px 0 0 0;">Next Steps</h1>
-      <p style="width: 600px; margin: 20px 0 0 0">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      <div style="margin: 20px 0 0 0;">
+        <img style="width: 60px; height: auto;" src="player.gif">
+        <img style="margin: 0 0 0 30px; width: 125px; height: auto; float: right;" src="scythe.png"/>
+      </div>
+      <h2 style="margin: 30px 0 0 0;">Unique Gameplay</h2>
+      <p style="margin: 20px 0 0 0">
+        <i>Belonging</i> combines top-down exploration with 2D platformer. You’ll navigate the story through a top-down map, solving puzzles that unlock side-scrolling battle stages. In these 2D platformer sections, you’ll fight the Darkins—creatures bent on annihilating all existence. The blend of top-down gameplay, puzzles, and 2D platformer offers a fresh and engaging experience.
       </p>
+      <img style="margin: 20px 0 0 0" src="boss1.png" />
+      <img style="margin: 10px 0 0 0" src="boss2.png" />
+      <h3 style="margin: 10px 0 0 0">Boss battles against the Darkins</h3>
+      <img style="margin: 20px 0 0 0" src="puzzle1.png" />
+      <img style="margin: 10px 0 0 0" src="puzzle2.png" />
+      <h3 style="margin: 10px 0 0 0">Top-down puzzles</h3>
+      <h1 style="margin: 30px 0 0 0;">So... what's next?</h1>
     </div>
   </main>
 
