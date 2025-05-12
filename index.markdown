@@ -53,6 +53,7 @@ layout:
     <img style="width: 525; height: 400; display: block; margin: auto;" src="game_title_screen.png"/>
     <iframe width="560" height="315" style="display: block; margin: auto;" src="https://www.youtube.com/embed/ASlkM-mf1zk?si=6_Ow2fVRuVeQFRoK" title="YouTube video player"   frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <div style="display: flex; flex-direction: column; justify-self: center; align-items: center; color: rgb(89, 160, 222); width: 600px">
+      <!--Intro-->
       <h1 style="margin: 30px 0 0 0;">What is Belonging?</h1>
       <p style="margin: 20px 0 0 0">
         Everyone has the urge to belong somewhere. Abraham Maslow, an American psychologist, proposed a theory known as Maslow’s Hierarchy of Needs. According to this theory, humans have five levels of needs, and the need for belonging is one of them.
@@ -79,7 +80,38 @@ layout:
       <img style="margin: 20px 0 0 0" src="puzzle1.png" />
       <img style="margin: 10px 0 0 0" src="puzzle2.png" />
       <h3 style="margin: 10px 0 0 0">Top-down puzzles</h3>
-      <h1 style="margin: 30px 0 0 0;">So... what's next?</h1>
+      <!--Next Steps-->
+      <h1 style="margin: 50px 0 0 0;">So... what's next?</h1>
+      <p style="margin: 20px 0 0 0">
+        Our game is far from finished. There are still many features we’d like to add — including new weapons with special attacks, new mechanics, more bosses, a greater variety of basic enemies, and much more. But before that, there are a few aspects we’d like to refine.
+      </p>
+      <h2 style="margin: 30px 0 0 0;">Known bugs: </h2>
+      <ul style="align-self: flex-start">
+        <li style="margin: 20px 0 0 0">
+          The animation for player attacks will occasionally cancel during movement, preventing the attack from dealing damage.
+        </li>
+        <li>
+          Occasionally mismatch between the final boss' current state and animation (e.g. may attack while walking or after the attack should've taken place)
+        </li>
+        <li>
+          Some flying enemies don't have a (clear?) hitbox and/or may appear to have more health than it should
+        </li>
+        <li>
+          Wall jumping is apparently a thing! (due to logic found in our code)
+        </li>
+      </ul>
+      <h2 style="margin: 30px 0 0 0;">Needed improvements for the game: </h2>
+      <ul style="align-self: flex-start">
+        <li style="margin: 20px 0 0 0">
+          The basic enemies that are scattered across the platformer levels are too easy and bland. We would like to give them unique attacks and an incentive to kill them, such as item drops.
+        </li>
+        <li>
+          As part of our original plan, we want the player to gain access to multiple weapons, each unlocked by defeating a boss. These weapons will not only vary between ranged and melee types, but each will also feature a unique special ability — adding depth and excitement to combat.
+        </li>
+        <li>
+          While our game is supposed to be story-based, many of these story elements aren't present in the current version of the game. To solve this issue, we plan on adding more cutscene events, similar to the opening cutscene at the beginning of the game. Some likely places where these events may take place are before, during, and after boss fights. 
+        </li>
+      </ul>
     </div>
   </main>
 
