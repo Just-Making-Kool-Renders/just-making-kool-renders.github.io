@@ -4,15 +4,6 @@ title: About Us
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+We are a team of 5 college students with a keen interest in game development. Our first and current game "Belonging" is a project we started for our Video Game Design course, which we intend on continuing in the future. This project is inspired by popular games such as League of Legends and Hollow Knight. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Future updates will be posted to this site, so stay tuned! 
